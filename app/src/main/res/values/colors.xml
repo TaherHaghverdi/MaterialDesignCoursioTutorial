@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="orange">#FF9800</color>
+
+    <color name="bottom_navigation_1">#C5CAE9</color>
+    <color name="bottom_navigation_2">#B2DFDB</color>
+    <color name="bottom_navigation_3">#F0F4C3</color>
+    <color name="bottom_navigation_4">#FFCCBC</color>
+</resources>

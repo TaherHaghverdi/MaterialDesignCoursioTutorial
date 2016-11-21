@@ -1,0 +1,22 @@
+<tabs>
+    <tab
+        id="@+id/tab_heart"
+        icon="@drawable/ic_heart"
+        barColorWhenSelected="@color/bottom_navigation_1"
+        title="Heart" />
+    <tab
+        id="@+id/tab_camera"
+        icon="@drawable/ic_camera"
+        barColorWhenSelected="@color/bottom_navigation_2"
+        title="Camera" />
+    <tab
+        id="@+id/tab_star"
+        icon="@drawable/ic_star"
+        barColorWhenSelected="@color/bottom_navigation_3"
+        title="Star" />
+    <tab
+        id="@+id/tab_info"
+        icon="@drawable/ic_info"
+        barColorWhenSelected="@color/bottom_navigation_4"
+        title="Info" />
+</tabs>
