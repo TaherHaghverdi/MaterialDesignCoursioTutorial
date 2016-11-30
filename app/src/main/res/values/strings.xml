@@ -4,6 +4,7 @@
     <string name="menu1">Snackbar Test</string>
     <string name="menu2">Tab Test</string>
     <string name="menu3">Bottom Bar</string>
+    <string name="menu4">About Us</string>
 
     <string name="drawer_item_settings">تنظیمات</string>
     <string name="drawer_item_search">جستجو</string>

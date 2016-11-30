@@ -15,8 +15,14 @@
         android:orderInCategory="100"
         app:showAsAction="never" />
     <item
-        android:id="@+id/action_menu_3"
-        android:title="@string/menu3"
+    android:id="@+id/action_menu_3"
+    android:title="@string/menu3"
+    android:orderInCategory="100"
+    app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu_4"
+        android:title="@string/menu4"
         android:orderInCategory="100"
         app:showAsAction="never" />
 </menu>

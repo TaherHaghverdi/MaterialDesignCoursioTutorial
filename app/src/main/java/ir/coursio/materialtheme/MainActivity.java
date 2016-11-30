@@ -91,6 +91,11 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent3);
                 return true;
 
+            case R.id.action_menu_4:
+                Intent intent4 = new Intent(MainActivity.this, AboutUsActivity.class);
+                startActivity(intent4);
+                return true;
+
         }
 
         return super.onOptionsItemSelected(item);

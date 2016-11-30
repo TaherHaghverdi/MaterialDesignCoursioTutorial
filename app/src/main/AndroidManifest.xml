@@ -18,7 +18,8 @@
         <activity android:name=".SnackbarActivity" />
         <activity android:name=".TabActivity" />
         <activity android:name=".Main2Activity" />
-        <activity android:name=".BottomBarActivity"></activity>
+        <activity android:name=".BottomBarActivity" />
+        <activity android:name=".AboutUsActivity"></activity>
     </application>
 
 </manifest>
