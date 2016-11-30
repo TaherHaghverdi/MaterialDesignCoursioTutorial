@@ -11,4 +11,8 @@
     <color name="bottom_navigation_2">#B2DFDB</color>
     <color name="bottom_navigation_3">#F0F4C3</color>
     <color name="bottom_navigation_4">#FFCCBC</color>
+
+    <color name="about_us_floating_btn">#ffffff</color>
+    <color name="about_us_bg">#FFCCBC</color>
+    <color name="white">#fff</color>
 </resources>
